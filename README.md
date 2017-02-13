@@ -1,2 +1,2 @@
-# myfirstweb
-My first html web
+# my first jsp project
+My first jsp project
